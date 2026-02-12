@@ -1,0 +1,21 @@
+order_id,customer_name,customer_email,location_city,location_state,product,quantity,unit_price,order_date,shipped_date,status
+1001,Alice Vega,alice.vega@example.com,Austin,TX,Wireless Keyboard,2,39.95,2026-02-02,2026-02-04,Shipped
+1002,Ben Cruz,ben.cruz@example.com,Denver,CO,27" Monitor,1,269.00,2026-02-03,2026-02-05,Shipped
+1003,Chen Li,chen.li@example.com,Seattle,WA,USB-C Docking Station,1,199.50,2026-02-03,2026-02-06,Shipped
+1004,Dina Patel,dina.patel@example.com,Boston,MA,Laptop Stand,3,45.00,2026-02-04,2026-02-07,Shipped
+1005,Evan Brooks,evan.brooks@example.com,Chicago,IL,Noise Cancelling Headphones,1,149.99,2026-02-05,2026-02-08,Processing
+1006,Fatima Noor,fatima.noor@example.com,Portland,OR,Office Chair,1,349.00,2026-02-06,,Pending
+1007,Grace Kim,grace.kim@example.com,New York,NY,External SSD 1TB,2,129.00,2026-02-06,,Pending
+1008,Hector Ruiz,hector.ruiz@example.com,Los Angeles,CA,Smart Notebook,4,24.50,2026-02-07,2026-02-09,Shipped
+1009,Ivy White,ivy.white@example.com,San Francisco,CA,Webcam,1,89.00,2026-02-07,2026-02-10,Shipped
+1010,Jonas Meyer,jonas.meyer@example.com,Monroe,LA,Bluetooth Speaker,2,74.20,2026-02-08,2026-02-11,Shipped
+1011,Kara Novak,kara.novak@example.com,Phoenix,AZ,Ergonomic Mouse,1,59.95,2026-02-08,2026-02-12,Shipped
+1012,Luke Grant,luke.grant@example.com,Detroit,MI,Multi-device Charger,1,49.90,2026-02-09,,Pending
+1013,Maya Ortiz,maya.ortiz@example.com,Madison,WI,Portable Projector,1,429.00,2026-02-09,,Processing
+1014,Nolan West,nolan.west@example.com,Atlanta,GA,Standing Desk Mat,2,69.95,2026-02-10,2026-02-13,Shipped
+1015,Olivia Park,olivia.park@example.com,Charlotte,NC,Wireless Earbuds,3,119.99,2026-02-10,2026-02-14,Shipped
+1016,Paul Ross,paul.ross@example.com,Kansas City,MO,4K HDMI Cable,5,15.80,2026-02-11,2026-02-14,Shipped
+1017,Quinn Hale,quinn.hale@example.com,Minneapolis,MN,Desk Lamp,2,39.50,2026-02-11,,Processing
+1018,Rachel Stone,rachel.stone@example.com,Baltimore,MD,Conference Webcam,1,129.99,2026-02-12,,Pending
+1019,Samir Shah,samir.shah@example.com,San Diego,CA,Productivity Software License,1,249.00,2026-02-12,,Processing
+1020,Tara Blake,tara.blake@example.com,Nashville,TN,Smart Pen,1,199.00,2026-02-12,,Pending
